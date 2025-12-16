@@ -47,7 +47,7 @@ export default function PlayScreenS({ navigation }) {
 
   return (
     <ImageBackground
-      source={require('../assets/findshape.png')} // 🖼️ change to your background image
+      source={require('../assets/findnum.png')} // 🖼️ change to your background image
       style={styles.background}
       resizeMode="cover"
     >
