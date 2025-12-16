@@ -20,14 +20,18 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.flashcarrds.SmartStarterNew"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "plugins": [
+      "expo-font"
+    ],
     "extra": {
       "eas": {
-        "projectId": "f4f243cb-c4ec-437b-b264-0db36eab3743"
+        "projectId": "254cc552-88e2-493b-b468-5ea133fd2036"
       }
     }
   }
